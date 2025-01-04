@@ -1,0 +1,3 @@
+nix develop -c fish -C "
+  alias npd=\"npm run dev\"
+"
